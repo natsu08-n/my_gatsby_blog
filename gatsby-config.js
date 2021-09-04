@@ -63,7 +63,7 @@ module.exports = {
         name: `日々の技術メモブログ`,
         short_name: `GatsbyJS`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#ebf6f7`,
         theme_color: `#89c3eb`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
