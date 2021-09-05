@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `日々の技術メモブログ`,
+    title: `Natsu's blog about coding`,
     author: {
       name: `Natsuki Nakayama`,
-      summary: `フロントエンドのあれこれを綴ります`,
+      summary: `フロントエンドについての備忘録をまとめていきます`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
