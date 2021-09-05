@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Natsu's blog about coding`,
     author: {
-      name: `Natsuki Nakayama`,
+      name: `Natsuki N`,
       summary: `フロントエンドについての備忘録をまとめていきます`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
@@ -60,13 +60,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `日々の技術メモブログ`,
+        name: `Natsu's blog about coding`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ebf6f7`,
         theme_color: `#89c3eb`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/my-blog-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
